@@ -1,0 +1,9 @@
+# Configuration for Streamlit
+[server]
+runOnSave = true
+
+[theme]
+primaryColor = "#0077B6"
+backgroundColor = "#FAFAFA"
+secondaryBackgroundColor = "#4DB6AC"
+textColor = "#263238"
